@@ -1,0 +1,6 @@
+opencv-python
+numpy
+opencv-python-headless
+PySide6
+tk
+
